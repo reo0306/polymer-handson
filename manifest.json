@@ -1,0 +1,6 @@
+{
+  "name": "handson",
+  "short_name": "handson",
+  "start_url": "/",
+  "display": "standalone"
+}
